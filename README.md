@@ -4,7 +4,9 @@ For this assignment, you are requested to create a Django app with two views:
 
 1. Your webpage from week 6.  Call this view `w6`.  You must use a template to separate the header/navigation from content.
 2. Present a table of the republican and democratic vote share for _any_ county/city in Virginia by accessing
-   `http://127.0.0.1:8000/county/dinwiddie/`
+
+   http://127.0.0.1:8000/county/dinwiddie/
+   
    Your site should deal with either upper or lower case addresses.  Hint: use string `s.lower()`.
    If you did not complete week 6, a file with the data for all years is included in this directory.
    
