@@ -1,5 +1,7 @@
 # Homework 7: Presenting your Data with Django
 
+Assignment due November 16 at 1:30am.  Please accept it [here](https://classroom.github.com/assignment-invitations/b113cb352b93c0517bde542d62df9b6e).
+
 For this assignment, you are requested to create a Django app with two views:
 
 1. Your webpage from week 6.  Call this view `w6`.  You must use a template to separate the header/navigation from content.
